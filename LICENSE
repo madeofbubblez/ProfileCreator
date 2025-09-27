@@ -1,0 +1,37 @@
+-- ProfileCreator - Licensed under CC BY-NC 4.0 (modified)
+-- See LICENSE file in the root of the repository for details.
+
+ProfileCreator License
+======================
+
+Copyright (c) 2025 madeofbubblez
+
+ProfileCreator is licensed under a modified Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+
+Permissions
+-----------
+You are free to:
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material
+
+Conditions
+----------
+- Attribution — Credit is appreciated but not required.
+- NonCommercial — You may not use the material for commercial purposes.
+
+Disclaimer
+----------
+The software is provided "as is", without warranty of any kind. You assume all risk of using this software.
+
+Original license text: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+---
+
+Third-Party Components
+----------------------
+
+This project includes **ProfileStore** under `third-party/ProfileStore.lua`.
+
+- ProfileStore is licensed under the Apache License, Version 2.0.
+- You can find a copy of the Apache 2.0 license at:
+  http://www.apache.org/licenses/LICENSE-2.0
