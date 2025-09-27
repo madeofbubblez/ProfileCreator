@@ -5,10 +5,11 @@ ProfileCreator is a Roblox module that simplifies datastore setup using [Profile
 ---
 
 ## 🚀 How to Set Up
-1. Make a new Script in `ServerScriptService`.
-2. Name it whatever you want (for organization).
-3. Require the ProfileCreator module from the new script.
-4. Add the following code:
+1. Download the file from [here.](https://github.com/madeofbubblez/ProfileCreator/blob/main/ProfileCreator.rbxm)
+2. Drag and drop (or right click > Insert > Insert From File) the rbxm file anywhere in roblox studio (ServerScriptService or ReplicatedStorage is recommended)
+3. Make a new Script in `ServerScriptService`.
+4. Name it whatever you want (for organization).
+5. Add the following code:
 
 ```lua
 local ProfileCreator = require(path.to.ProfileCreator)
@@ -18,7 +19,7 @@ ProfileCreator.newDatastore()
 Fun fact: When the creator of this module/framework made this, he thought it would be bigger than just one folder and 3 module scripts!
 Spoiler alert: He was wrong.
 	
-If you have any problems with using this module/framework, Please contact the following name on github: "madeofbubblez".
+If you have any problems with using this module/framework, Please contact the creator on github: "madeofbubblez".
 
 - NOTICE: In third-party, There is a framework, ProfileStore (LICENSE file under third-party, licensed Apache 2.0).
 
