@@ -43,6 +43,9 @@ Q: Do I Need To Change Anything for ProfileStore/ProfileCreator To Work?
 
 - A: Yes! Please go to settings > Security > Enable Studio Access to API Services is set to TRUE (checkmarked).
 
+Q: How Do I Check My Version Of ProfileCreator?
+- A: Click ProfileCreator ONCE, then go to attributes and view "Version".  
+If it is NOT the latest version, download the newest release from [GitHub](https://github.com/madeofbubblez/ProfileCreator).
 ---
 
 ## ⚖️ License
