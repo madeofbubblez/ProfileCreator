@@ -1,0 +1,12 @@
+NOTICE
+======
+
+This project contains code licensed under multiple licenses.
+
+- ProfileCreator (root and Essentials/)
+  Licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
+  https://creativecommons.org/licenses/by-nc/4.0/
+
+- ProfileStore (third-party/ProfileStore.lua)
+  Licensed under the Apache License, Version 2.0.
+  http://www.apache.org/licenses/LICENSE-2.0
